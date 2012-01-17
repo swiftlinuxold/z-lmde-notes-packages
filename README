@@ -1,0 +1,4 @@
+This repository contains notes on package dependencies.  These are necessary for figuring out which packages can be purged and which must be kept.
+
+The command to list the dependencies of a package:
+apt-cache depends (package name)

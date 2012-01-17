@@ -1,0 +1,73 @@
+libreoffice-calc
+  Depends: libreoffice-core
+  Depends: libreoffice-base-core
+  Depends: libc6
+  Depends: libcolamd2.7.1
+  Depends: libgcc1
+  Depends: libstdc++6
+  Depends: libstlport4.6ldbl
+  Depends: ure
+  Depends: lp-solve
+  
+  libreoffice-writer
+  Depends: libreoffice-core
+  Depends: libreoffice-base-core
+  Depends: libc6
+  Depends: libgcc1
+  Depends: libicu44
+  Depends: libstdc++6
+  Depends: libstlport4.6ldbl
+  Depends: libwpd-0.9-9
+  Depends: libwpg-0.2-2
+  Depends: libwps-0.2-2
+  Depends: ure
+  Depends: zlib1g
+
+libreoffice-core
+  Depends: libreoffice-common
+  Depends: ttf-opensymbol
+  Depends: libatk1.0-0
+  Depends: libc6
+  Depends: libcairo2
+  Depends: libcurl3-gnutls
+  Depends: libdb5.1
+  Depends: libexpat1
+  Depends: libfontconfig1
+  Depends: libfreetype6
+  Depends: libgcc1
+  Depends: libgdk-pixbuf2.0-0
+  Depends: libglib2.0-0
+  Depends: libgraphite3
+  Depends: libgstreamer-plugins-base0.10-0
+  Depends: libgstreamer0.10-0
+  Depends: libgtk2.0-0
+  Depends: libhunspell-1.2-0
+  Depends: libhyphen0
+  Depends: libice6
+  Depends: libicu44
+  Depends: libjpeg62
+  Depends: libmythes-1.2-0
+  Depends: libneon27-gnutls
+  Depends: libnspr4-0d
+  Depends: libnss3-1d
+  Depends: libpango1.0-0
+  Depends: libpng12-0
+  Depends: libsm6
+  Depends: libssl1.0.0
+  Depends: libstdc++6
+  Depends: libstlport4.6ldbl
+  Depends: libtextcat0
+  Depends: libx11-6
+  Depends: libxaw7
+  Depends: libxext6
+  Depends: libxinerama1
+  Depends: libxml2
+  Depends: libxrandr2
+  Depends: libxrender1
+  Depends: libxslt1.1
+  Depends: libxt6
+  Depends: ure
+  Depends: zlib1g
+  Depends: librdf0
+  Depends: fontconfig
+
