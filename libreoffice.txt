@@ -71,3 +71,10 @@ libreoffice-core
   Depends: librdf0
   Depends: fontconfig
 
+libreoffice-base-core
+  Depends: libreoffice-core
+  Depends: libc6
+  Depends: libgcc1
+  Depends: libstdc++6
+  Depends: libstlport4.6ldbl
+  Depends: ure
